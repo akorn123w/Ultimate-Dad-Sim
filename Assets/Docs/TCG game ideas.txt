@@ -1,0 +1,130 @@
+HarvestCraft is a crafting-type trading card game that combines elements of farming and resource management with card battling. Players start with a basic set of cards representing crops, tools, and resources, and use them to build and manage their farm. As they progress through the game, they can craft new cards and upgrade existing ones, allowing them to expand their farm and improve their resources.
+
+In addition to farming and resource management, players can participate in collaborative farming challenges and defend their farm against pests. The game also incorporates elements of alchemy, where players can collect ingredients from their farm and use them to create potions. The potions can be used to enhance the abilities of their cards or create new resources, adding a new layer of strategy to the game.
+
+The game is designed to be strategic, with opportunities for players to collaborate on farming challenges and make strategic decisions about how to use their resources and cards. HarvestCraft offers a unique and engaging gaming experience that blends elements of farming, resource management, card battling, and alchemy.
+
+-------------------------------------------------------
+
+Crop Cards:-----------------------------------------
+
+Common:
+
+Arcanberry-
+Auric Algae-
+Blushing Blooms-
+Coppery Curls-
+Flaming Ferns-
+Parslilly-
+Luminescents-
+Smashrooms-
+Uncommon:
+
+Pixel-pods
+Twinkling Thistles-
+Zesty Zephyrs-
+Delvium-
+Fungle-
+Glowing Gourd-
+Rare:
+
+Hummingleaf-
+Javaberry-
+Starberry-
+Wispberry-
+Mythic:
+
+Yellowflame Pepper-
+Blaze Blossom Pepper-
+Firebloom Pepper-
+Equipment Cards:-----------------------------------------
+
+Common:
+
+Wood-
+Watering Can-
+Garden Hoe-
+Shovel-
+Trowel-
+Pruning Shears-
+Wheelbarrow-
+Rake-
+Hose-
+Uncommon:
+
+Greenhouse Kit-
+Irrigation System
+Seed Drill-
+Compost Bin-
+Garden Bed-
+Rare:
+
+Crop Duster-
+Fertilizer Dispenser-
+Cultivator-
+Soil Analyzer-
+Seedling Tray-
+Mythic:
+
+Automatic Watering System-
+Solar-powered Greenhouse-
+Action Cards:-----------------------------------------
+
+Common:
+
+Agricultural Research Center-
+Farmer's Almanac-
+Livestock Fencing-
+Rain Barrel-
+Seed Bank-
+Crop Diversity Planner-
+Agribusiness Network-
+Uncommon:
+
+Crop Cover-
+Farmer's Co-op-
+Soil Conditioner-
+Botanical Garden-
+Rare:
+
+Crop Swap-
+Harvest Moon-
+Nature Reserve-
+Mythic:
+
+Perennial Crops-
+Sustainable Farming-
+Event Cards:-----------------------------------------
+
+Common:
+
+Agricultural Fair-
+Flood-
+Hailstorm-
+Severe Heat-
+Solar Eclipse-
+Winter Freeze-
+Blizzard-
+Dust Storm-
+Uncommon:
+
+Drought-
+Frost-
+Hurricane-
+Rain-
+Windstorm-
+Thunderstorm-
+Rare:
+
+Earthquake
+Famine-
+Market Collapse-
+Market Surge-
+Pest Infestation-
+Mythic:
+
+Blight-
+Plague-
+Tornado-
+Tsunami-
+Wildfire-
